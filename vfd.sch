@@ -21249,10 +21249,10 @@ grid 5.08 mm</description>
 <part name="R3" library="resistor" deviceset="R-US_" device="0204/7" value="10k"/>
 <part name="R4" library="resistor" deviceset="R-US_" device="0204/7" value="10k"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
-<part name="R5" library="resistor" deviceset="R-US_" device="0204/7" value="10k"/>
-<part name="R6" library="resistor" deviceset="R-US_" device="0204/7" value="10k"/>
-<part name="R7" library="resistor" deviceset="R-US_" device="0204/7" value="10k"/>
-<part name="R8" library="resistor" deviceset="R-US_" device="0204/7" value="10k"/>
+<part name="R5" library="resistor" deviceset="R-US_" device="0204/5" value="10k"/>
+<part name="R6" library="resistor" deviceset="R-US_" device="0204/5" value="10k"/>
+<part name="R7" library="resistor" deviceset="R-US_" device="0204/5" value="10k"/>
+<part name="R8" library="resistor" deviceset="R-US_" device="0204/5" value="10k"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
@@ -21302,9 +21302,9 @@ grid 5.08 mm</description>
 <part name="R19" library="resistor" deviceset="R-US_" device="0204/7" value="3k0"/>
 <part name="R21" library="resistor" deviceset="R-US_" device="0204/7" value="100k"/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
-<part name="D13" library="diode" deviceset="ZENER-DIODE" device="ZD-12.5"/>
+<part name="D13" library="diode" deviceset="ZENER-DIODE" device="DO34-7"/>
 <part name="R20" library="resistor" deviceset="R-US_" device="0204/7" value="3k0"/>
-<part name="D14" library="diode" deviceset="SCHOTTKY-DIODE" device="F126Z12" value="SS14"/>
+<part name="D14" library="diode" deviceset="SCHOTTKY-DIODE" device="DO35-7" value="SS14"/>
 <part name="C4" library="resistor" deviceset="CPOL-EU" device="B45181A" value="22uf/50v"/>
 <part name="R22" library="resistor" deviceset="R-US_" device="0204/5" value="100k"/>
 <part name="L1" library="resistor" deviceset="L-US" device="0204/5" value="1MH"/>
